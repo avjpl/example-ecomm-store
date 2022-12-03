@@ -16,6 +16,8 @@
 /build
 
 # misc
+.fleet/
+.idea/
 .DS_Store
 *.pem
 
